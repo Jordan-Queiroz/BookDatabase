@@ -1,0 +1,22 @@
+{
+  "name": "bookdatabase",
+  "version": "1.0.0",
+  "description": "This is a project for practice purposes. For practice Web API development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordan-Queiroz/BookDatabase.git"
+  },
+  "author": "Jordan Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordan-Queiroz/BookDatabase/issues"
+  },
+  "homepage": "https://github.com/Jordan-Queiroz/BookDatabase#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
